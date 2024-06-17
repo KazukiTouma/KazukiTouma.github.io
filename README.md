@@ -13,4 +13,4 @@ languages I learned or learning：
 * Latin
 * French
 
-![image](/IMGCicero:Huoguo.JPG)
+![image](/IMGCicero_Huoguo.JPG)
