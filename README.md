@@ -1,5 +1,4 @@
 # KazukiTouma.github.io
-
 ## About me
 
 I am KazukiTouma, a language learner.
