@@ -12,7 +12,3 @@ languages I learned or learning：
 * Korean 
 * Latin
 * French
-
-## He is Cicero, one year old boy
-
-![image](/IMGCicero_Huoguo.JPG)
