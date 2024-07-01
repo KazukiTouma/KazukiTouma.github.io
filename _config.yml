@@ -3,4 +3,4 @@ title: Homepage of KazukiTouma.
 description: 
 plugins:
 url: "https://KazukiTouma.github.io/"
-markdown: kramdown
+markdown: midnight
