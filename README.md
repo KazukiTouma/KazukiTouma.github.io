@@ -15,5 +15,3 @@ languages I learned or learning：
 
 I am also researching contents tourism in Japan. 
 The next research contents are Your name(2016), EVA(2021) and Detective Conan(2024)
-
-[image] Hida Your Name.heic
