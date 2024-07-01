@@ -1,5 +1,6 @@
-title: Midnight theme
+theme: jekyll-theme-slate
+title: Homepage of KazukiTouma.
 description: 
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-midnight
+plugins:
+url: "https://KazukiTouma.github.io/"
+markdown: kramdown
