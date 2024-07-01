@@ -1,7 +1,7 @@
 # KazukiTouma.github.io
 ## About me
 
-I am KazukiTouma, a language learner.
+I am interested in the connection between languages, the relationship between language and history.
 
 languages ​​I speak：
 * Chinese 
@@ -13,4 +13,4 @@ languages I learned or learning：
 * Latin
 * French
 
-I am interested in the connection between languages, the relationship between language and history. I am also researching contents tourism in Japan.
+I am also researching contents tourism in Japan.
