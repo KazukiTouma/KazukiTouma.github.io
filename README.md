@@ -10,6 +10,7 @@ I am researching contents tourism in Japan. I conducted research related to long
 Some photos about contents tourism distnation.
 
 ![image](/HidaYourName.jpg)
+![image](/Hakodate.jpg)
 
 ## Interest
 
