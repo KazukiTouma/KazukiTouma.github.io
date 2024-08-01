@@ -25,4 +25,5 @@ I am interested in language study, and find the connection between languages, th
 ## Contact me
 X:[Kazuki Touma](https://x.com/KazukiTouma)
 
+
 **Aurea mediocritas.**
