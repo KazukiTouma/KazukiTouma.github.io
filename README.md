@@ -1,19 +1,25 @@
-# KazukiTouma.github.io
-## About me
+# About me
+Hiroshima University IGS (Graduated)
 
-I am interested in the connection between languages, the relationship between language and history.
+Hokkaido University IMCTS (Current)
 
-languages ​​I speak：
-* Chinese 
-* Japanese 
-* English
+## Research 
 
-languages I learned or learning： 
-* Korean 
-* Latin
-* French
+I am researching contents tourism in Japan. I conducted research related to long-term influence of contents tourism. My next research will be sustainability of contents tourism distnation. And the research subjects are *Your name(2016)*, *EVA(2021)* and *Detective Conan(2024)*.
 
-I am also researching contents tourism in Japan. 
-The next research contents are Your name(2016), EVA(2021) and Detective Conan(2024)
+Some photos about contents tourism distnation.
 
 ![image](/HidaYourName.jpg)
+
+## Interest
+
+I am interested in language study, and find the connection between languages, the relationship between language and history.
+
+| languages I can speak | languages I learned or learning |
+|-----------------------|---------------------------------|
+| 中文                  | 한국어                          |
+| 日本語                | Lingua Latina                   |
+| English               | Français                        |
+
+## Contact me
+X:[Kazuki Touma](https://x.com/KazukiTouma)
