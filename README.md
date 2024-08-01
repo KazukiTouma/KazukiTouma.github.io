@@ -26,4 +26,4 @@ I am interested in language study, and find the connection between languages, th
 X:[Kazuki Touma](https://x.com/KazukiTouma)
 
 ---
-**<center>Aurea mediocritas.</center>**
+**Aurea mediocritas.**
