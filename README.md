@@ -3,7 +3,7 @@ Hiroshima University IGS (Graduated)
 
 Hokkaido University IMCTS (Current)
 
-## Research 
+## Research
 
 I am researching contents tourism in Japan. I conducted research related to long-term influence of contents tourism. My next research will be sustainability of contents tourism distnation. And the research subjects are *Your name(2016)*, *EVA(2021)* and *Detective Conan(2024)*.
 
@@ -26,4 +26,4 @@ I am interested in language study, and find the connection between languages, th
 X:[Kazuki Touma](https://x.com/KazukiTouma)
 
 ---
-**Aurea mediocritas.**
+**<center> Aurea mediocritas. </center>**
